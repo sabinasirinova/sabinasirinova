@@ -2,19 +2,21 @@
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabinasirinova&label=Profile%20views&color=0e75b6&style=flat" alt="sabinasirinova" /> </p>
+- ☺️ Pronouns <i>She/Her</i>
+
 - 🔭 I’m currently working on [CSS](https://github.com/sabinasirinova/CSS)
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning <i>Bootstrap</i>
 
 - 🤝 I’m looking for help with [CSS-CFF](https://github.com/sabinasirinova/CSS-CFF)
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/sabinairinova](https://www.behance.net/sabinairinova)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about <i>JavaScript</i>
 
-- 📫 How to reach me **sabinashirinova04@gmail.com**
+- 📫 How to reach me <i>sabinashirinova04@gmail.com</i>
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact <i>I think I am funny</i>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabinasirinova" alt="sabinasirinova" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@ssabinams04" target="blank"><img src="https://img.shields.io/twitter/follow/@ssabinams04?logo=twitter&style=for-the-badge" alt="@ssabinams04" /></a> </p>
