@@ -9,7 +9,7 @@
 
 - 📫 How to reach me <i>sabinashirinova04@gmail.com</i>
 
-- ⚡ Fun fact <i>I think I am funny</i>
+- ⚡ Fun fact <i>I am funny</i>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabinasirinova" alt="sabinasirinova" /></a> </p>
 
 
