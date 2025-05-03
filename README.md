@@ -7,14 +7,6 @@
 
 - ☺️ Pronouns <i>She/Her</i>
 
-- 🌱 I’m currently learning <i>Bootstrap</i>
-
-- 🤝 I’m looking for help with [CSS-CFF](https://github.com/sabinasirinova/CSS-CFF)
-
-- 👨‍💻 All of my projects are available at [https://www.behance.net/sabinairinova](https://www.behance.net/sabinairinova)
-
-- 💬 Ask me about <i>JavaScript</i>
-
 - 📫 How to reach me <i>sabinashirinova04@gmail.com</i>
 
 - ⚡ Fun fact <i>I think I am funny</i>
